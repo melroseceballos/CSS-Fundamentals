@@ -447,19 +447,27 @@ Let's make a new branch off of the dev branch to hotfix this major problem! **
 
 ### Merging Our New Feature into the Dev branch
 ###### Browser - github:
-- See our new branch (either a message will pop up or use the left side pull down to see) <details><summary>Screenshot</summary>![github screenshot](https://i.imgur.com/mgEzi40.png)
+- See our new branch (either a message will pop up or use the left side pull down to see) <details><summary>Screenshot</summary>
+
+![github screenshot](https://i.imgur.com/mgEzi40.png)
 </details>
+
 - Select the `Pull requests` tab
 - On the right side, push the `New pull request` button
 - Select `base: dev` and `compare: price-fix`
 - Wait a moment to let github tell you if there are any merge conflicts
-<details><summary>Screenshot</summary> ![github all clear](https://i.imgur.com/L72S16y.png)
+<details><summary>Screenshot</summary> 
+
+![github all clear](https://i.imgur.com/L72S16y.png)
 </details>
 
 - All clear! Go ahead and press the `Create pull request` button
 - A new screen will appear, enter a message if you like, otherwise push the `Create pull request button`
 - `merge pull request` button, wait a moment, then go ahead and confirm the merge! (Note: when you work on a team, it is unlikely that you would merge your own pull requests)
-<details><summary>Screenshot</summary>![Merge Pull Request message and button](https://i.imgur.com/2yUuGmq.png)
+
+<details><summary>Screenshot</summary> 
+
+![Merge Pull Request message and button](https://i.imgur.com/2yUuGmq.png)
 </details>
 
 ### Going Back to Our Updated Colors Feature
