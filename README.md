@@ -87,7 +87,7 @@ As a professional developer, you will do whatever it takes to finish this projec
 #### Part 1 - Get the files
 ###### Browser - github:
 - Fork Happy-Fun-Ball (make a copy of this remote repository to your github account):
- - [Go here](https://git.generalassemb.ly/SEIR-Mariposa/DLVR-Happy-Fun-Ball) and click fork (upper right) to fork it to your personal repo (Don't worry! You can totally delete it after the lesson!)
+ - [Go here](https://git.generalassemb.ly/SEIR-Mariposa/DLVR-Happy-Fun-Ball) and click fork (upper right) to fork it to your personal repo
   <details><summary>Show Screenshot</summary>
 
   ![Upper right on github](https://i.imgur.com/TjcbBOB.png)
@@ -571,3 +571,8 @@ Note: your numbers/letters after the `>>>>>>>` should be different
 - Merge Pull Request
 - Confirm Pull Request
 - Check to see that your changes have been successfully made to the master branch
+
+
+## Submit Your Final Product
+- As we've done before, submit your repo by creating a pull request to the classroom repo.
+- For a walkthrough on how to do that, visit this [markdown](https://git.generalassemb.ly/SEIR-Mariposa/Intro-to-GA/blob/main/Submitting%20Deliverables.md#creating-a-pull-request)
